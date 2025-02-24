@@ -2,8 +2,12 @@ This is me working on git which is a version control system after few days. Hope
 
     - Feature-1 has been added to README.md file here. This line will appear once feature-1 has been merged to the master branch.
     
+<<<<<<< HEAD
     - This line has been added in the cloned Repo.
 
     - Testing PR Simulation
     
     -Making one more change to test.
+=======
+    -adding a line from feature-1 branch
+>>>>>>> feature-1
